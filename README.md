@@ -31,4 +31,5 @@ Para ello, utilizamos una combinación de Redes Neuronales Convolucionales (CNN)
 Las contribuciones son bienvenidas. ¡Queremos tu ayuda para mejorar y perfeccionar este proyecto! Si tienes ideas, sugerencias o encuentras algún problema, abre un issue, envía un pull request o manda un correo a christofer.rojas8028@alumnos.udg.mx.  
 
 ## Licencia
-Este proyecto está bajo la licencia MIT.
+
+Este proyecto está licenciado bajo la Licencia MIT - consulta el archivo [LICENSE](./LICENSE) para más detalles.
