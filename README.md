@@ -30,27 +30,27 @@ Para ello, utilizamos una combinación de Redes Neuronales Convolucionales (CNN)
 ## Contribuciones
 Las contribuciones son bienvenidas. ¡Queremos tu ayuda para mejorar y perfeccionar este proyecto! Si tienes ideas, sugerencias o encuentras algún problema, abre un issue, envía un pull request o manda un correo a christofer.rojas8028@alumnos.udg.mx.  
 
->## Licencia
+## Licencia
+
+Este proyecto está licenciado bajo la Licencia MIT - consulta el archivo [LICENSE](./LICENSE) para más detalles.# Licencias y Autores. 
+
+>**A continuación, se mencionan los autores y su respectiva licencia de contribución:**
 >
->Este proyecto está licenciado bajo la Licencia MIT - consulta el archivo [LICENSE](./LICENSE) para más detalles.# Licencias y Autores. 
-
-**A continuación, se mencionan los autores y su respectiva licencia de contribución:**
-
-- **Mark Otto**  
-  Copyright (c) 2013  
-
-- **Andrew Fong**  
-  Copyright (c) 2017
-
-- **Moises Sotelo Rodriguez**
-  Copyright (c) 2024
-
-  - **The Linux Foundation**  
-  Copyright © 2017  
-
-**Marcas registradas**: Linux es una marca registrada de **Linus Torvalds**. Para una lista de marcas registradas por The Linux Foundation, por favor consulta su [página de uso de marcas registradas](https://www.linuxfoundation.org/trademark-usage).
-
-**Términos de uso**: [Terms of Use](https://www.linuxfoundation.org/terms) | [Privacy Policy](https://www.linuxfoundation.org/privacy) | [Bylaws](https://www.linuxfoundation.org/bylaws) | [Trademark Usage](https://www.linuxfoundation.org/trademark-usage) | [Antitrust Policy](https://www.linuxfoundation.org/antitrust-policy) | [Good Standing Policy](https://www.linuxfoundation.org/good-standing-policy).
+>- **Mark Otto**  
+>  Copyright (c) 2013  
+>
+>- **Andrew Fong**  
+> Copyright (c) 2017
+>
+>- **Moises Sotelo Rodriguez**
+>  Copyright (c) 2024
+>
+>  - **The Linux Foundation**  
+>  Copyright © 2017  
+>
+>**Marcas registradas**: Linux es una marca registrada de **Linus Torvalds**. Para una lista de marcas registradas por The Linux Foundation, por favor consulta su [página de uso de marcas registradas]>(https://www.linuxfoundation.org/trademark-usage).
+>
+>**Términos de uso**: [Terms of Use](https://www.linuxfoundation.org/terms) | [Privacy Policy](https://www.linuxfoundation.org/privacy) | [Bylaws](https://www.linuxfoundation.org/bylaws) | [Trademark Usage](https://www.linuxfoundation.org/trademark-usage) | [Antitrust Policy](https://www.linuxfoundation.org/antitrust-policy) | [Good Standing Policy](https://www.linuxfoundation.org/good-standing-policy).
 
 
 
