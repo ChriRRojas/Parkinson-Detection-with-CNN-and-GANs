@@ -43,7 +43,7 @@ Este proyecto está licenciado bajo la Licencia MIT - consulta el archivo [LICEN
 > Copyright (c) 2017
 >
 >- **Moises Sotelo Rodriguez**
->  Copyright (c) 2024
+>Copyright (c) 2024
 >
 >  - **The Linux Foundation**  
 >  Copyright © 2017  
