@@ -34,7 +34,7 @@ Las contribuciones son bienvenidas. ¡Queremos tu ayuda para mejorar y perfeccio
 
 Este proyecto está licenciado bajo la Licencia MIT - consulta el archivo [LICENSE](./LICENSE) para más detalles.# Licencias y Autores. 
 
- **A continuación, se mencionan los autores y su respectiva licencia de contribución:**
+> **A continuación, se mencionan los autores y su respectiva licencia de contribución:**
 
 - **Mark Otto**  
   Copyright (c) 2013  
